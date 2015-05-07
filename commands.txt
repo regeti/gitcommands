@@ -56,7 +56,9 @@ $ git push
 
 > 
 
+-------------------
 Initial help file
+--------------------
 
 echo # gitcommands >> README.md
 git init
