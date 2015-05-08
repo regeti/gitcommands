@@ -66,3 +66,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/regeti/gitcommands.git
 git push -u origin master
+
+Clone a repository:
+-------------------
+
+git clone https://github.com/regeti/gitcommands.git <directoryOncurrentSystem>
